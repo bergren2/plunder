@@ -4,6 +4,13 @@ Library for making sense of [Agent Ransack](https://www.mythicsoft.com/agentrans
 
 If you're looking for a solid SQLite tool, check out [DB Browser for SQLite](http://sqlitebrowser.org/).
 
+## Agent Ransack
+
+![](ransack_instructions.png)
+
+The results from Agent Ransack need to use the settings from above. Eventually we'll support other formats,
+including those from other search tools.
+
 ## Usage
 
 ```python
