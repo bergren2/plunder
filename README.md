@@ -26,6 +26,3 @@ This reads the tab-delimited results into `plunder.sqlite` so you can query to y
 ## License
 
 See LICENSE for details.
-
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbergren2%2Fplunder.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbergren2%2Fplunder?ref=badge_large)
