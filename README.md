@@ -1,6 +1,6 @@
-# Plunder
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbergren2%2Fplunder.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbergren2%2Fplunder?ref=badge_shield)
 
+# Plunder
 
 Library for making sense of [Agent Ransack](https://www.mythicsoft.com/agentransack) results. Very much a WIP.
 
